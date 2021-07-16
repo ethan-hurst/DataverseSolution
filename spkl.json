@@ -1,0 +1,16 @@
+{
+  "webresources": [
+    {
+
+      "profile": "default,debug",
+      "solution": "Playground",
+      "files": [
+        {
+          "uniquename": "dev_/js/clienthooks.js",
+          "file": "C:/Github/clientjs/dist/clienthooks.js",
+          "description": "JavaScript for Forms and Commandbar Actions"
+        }
+      ]
+    }
+  ]
+}
